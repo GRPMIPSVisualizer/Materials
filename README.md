@@ -6,3 +6,5 @@ The creation of this Repository referenced online tutorial blogs. The link is pu
 [Git 筆記 - Github 多人合作(設定)](http://tech-marsw.logdown.com/blog/2013/08/17/git-notes-github-n-person-cooperation-settings/)
 
 [github 多人如何一起开发?](http://tech-marsw.logdown.com/blog/2013/08/17/git-notes-github-n-person-cooperation-settings/)
+
+[github协作开发原理](https://github.com/livoras/blog/issues/7)
