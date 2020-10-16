@@ -5,5 +5,7 @@ They also proposed that they would be able to quickly clear all existing code an
 
 
 ![1](Textual Analysis1.png)
+
 ![2](Textual Analysis2.png)
+
 ![3](Textual Analysis3.png)
