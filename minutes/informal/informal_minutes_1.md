@@ -31,7 +31,7 @@
 
 #### Analyze basic functions of MIPS Datapath Simulator 
 
-##### Code Module
+##### Code and output Module
 
 1. Provide Code highlight
 
