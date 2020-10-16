@@ -136,7 +136,7 @@
 
      * When users stop playing the animation, they can put their cursor on a specific component to see what work it has done in the previous instruction. All the bus and components which interact with this component will be rendered in a different color.
 
-       ![1](/markdown_image/sample1.png)
+       ![1](../../markdown_image/sample1.png)
 
        >  image above shows the rough idea of the final effect of this function 
 

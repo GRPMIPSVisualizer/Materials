@@ -2,9 +2,9 @@ Our team has contacted the MIPS course teacher and the person in charge of the c
 
 They also proposed that they would be able to quickly clear all existing code and caches. This will make it easier and simpler for them to restart a new process. And when its own code goes wrong, the simulator can act like some software that tells it what's wrong. If an assignment to a line of code or a register is incorrect, the corresponding place will be highlighted or otherwise conspicuously indicated. However, a few students said that they would not use this online simulator very often because they often used other software as the simulator. They may just be asked to use it in class. And they already have some text files of their own that contain the complete code. So they want to be able to download text files of the programs they've run on the web page. They can also upload text files to an online simulator to watch it run. So we thought we could also have every student use an id, like an account, to log in. In this way, every student who has completed the program will be saved in the corresponding database under their own account. Students can download their own projects whenever and wherever they want. This will be an optional feature to meet the needs of some students. Other students said they didn't know much about some of the instructions and might not know what they meant or how to use some of them, so they wanted the simulator to provide some simple tutorials on MIPS.
 
-![1](Textual Analysis1.png)
+![1](../markdown_image/TextualAnalysis1.png)
 
-![2](Textual Analysis2.png)
+![2](../markdown_image/TextualAnalysis2.png)
 
-![3](Textual Analysis3.png)
+![3](../markdown_image/TextualAnalysis3.png)
 
