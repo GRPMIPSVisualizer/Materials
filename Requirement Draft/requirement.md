@@ -39,7 +39,7 @@ Basic functionalities:
 
 Some technical requirement
 
-1. Module separation: Divided the whole project into three module
+1. Module separation: Divided the whole project into four module
    * Code and output module
    * Visualization module
    * Guide module
