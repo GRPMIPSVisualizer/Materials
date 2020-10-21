@@ -26,6 +26,7 @@
   * Finish reading COMPUTER ORGANIZATION AND DESIGN chapter 3 & 4.
   * Make a more detailed gantt chart
   * Finish Ethics checklist
+  * Do specification
 * 2.2 Individual
 
 ### 3. Remaining problems
@@ -34,6 +35,7 @@
 * Specific grouping forms, such as the visual part and the Simulator implementation part.
 * Concrete form of code implementation.
 * What specific techniques need to learn in the visualization section.
+* What programming language to use.
 
 ### 4. Minutes
 
