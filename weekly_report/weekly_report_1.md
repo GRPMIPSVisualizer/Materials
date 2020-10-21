@@ -37,5 +37,5 @@
 
 ### 4. Minutes
 
-* Formal [minute](https://github.com/GRPMIPSVisualizer/Materials/blob/master/minutes/formal/formal_minutes_1.md)
-* Informal minute(https://github.com/GRPMIPSVisualizer/Materials/blob/master/minutes/informal/informal_minutes_1.md)
+* [Formal minute](https://github.com/GRPMIPSVisualizer/Materials/blob/master/minutes/formal/formal_minutes_1.md)
+* [Informal minute](https://github.com/GRPMIPSVisualizer/Materials/blob/master/minutes/informal/informal_minutes_1.md)
