@@ -54,13 +54,27 @@
 
 * Visualization group (Chuyan FU, Jiahe LYU, Enze REN) :
 
-  Prototype, Tabular
+  Prototype (software: Axure), Tabular
 
   DDL: 15/11/2020
 
 * Hardware logic group (Chen SHAN, Chenyu YANG, Kailiang NAN) :
 
   Draw class diagram
+
+  * Basic classes:
+    1. Assembler
+    2. 8-bit register
+    3. 32-bit register
+    4. Register file
+    5. Memory - Instruction memory/data memory
+    6. Multiplexor
+    7. ALU control
+    8. ALU
+    9. Multiply/division
+    10. Unsigned
+    11. Overflow/exception
+    12. Control
 
   Learn Basic TypeScript
 
