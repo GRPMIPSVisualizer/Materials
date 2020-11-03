@@ -27,4 +27,4 @@
 ### 3. Minutes
 
 * [Formal minute](https://github.com/GRPMIPSVisualizer/Materials/blob/master/minutes/formal/formal_minutes_2.md)
-* [Informal minute]
+
