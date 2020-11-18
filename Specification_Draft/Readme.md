@@ -1,4 +1,4 @@
-1. Before landing
+1. Pipeline Mode
 
    1.1 Code highlighting
 
@@ -18,15 +18,19 @@
 
    1.9 User Manual (new interface)
 
-   1.10 the demo
+   1.10 Demonstrate the demo
 
    1.11 Reset (Code area, graphics area, debug area all empty)
+   
+   (2.1) Mode Switching
 
-2. After landing
+2. Single-Instruction Mode
 
-   2.1 Select History (download to code area)
-
-   2.2 Upload existing code to the cloud (save)
+   2.1 Mode Switching
+   
+   2.2 MIPS CPU stage switching 
+   
+   2.3 Click memory component to show binary code
 
 
 
